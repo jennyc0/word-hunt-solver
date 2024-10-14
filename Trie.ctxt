@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trie
+comment1.params=
+comment1.target=Trie()
+comment2.params=word
+comment2.target=void\ insert(java.lang.String)
+comment3.params=word
+comment3.target=boolean\ findWord(java.lang.String)
+comment4.params=pre
+comment4.target=boolean\ startsWith(java.lang.String)
+comment5.params=pre
+comment5.target=Trie.TrieNode\ findWordHelper(java.lang.String)
+numComments=6
